@@ -1,9 +1,9 @@
 {
-  "name": "VihangaBot MD V2",
+  "name": "MUZAMIL MD V2",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://telegra.ph/file/813ab01ad2063a14cd628.jpg",
+  "repository": "https://i.ibb.co/6N69kd5/devil-splash-logo.jpg",
   "logo": "",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "VIHANGAMDV2", "multi device"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Muzamil bot", "multi device"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
